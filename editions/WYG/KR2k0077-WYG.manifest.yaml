@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2k0077/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0077/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 直隸河渠志
+  date: '2015-08-24 22:44:20.072082'
+  source:
+    repository: kanripo
+    path: KR2k0077
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0077_000-WYG.yaml, hash: 'sha256:034587ad828cbe1cb232697d6bb8203b0685fb8e6841b60d0eb7fa12393da7b2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0077_000-WYG.markers.yaml, hash: 'sha256:fcb06504c42b46a84f50ea50204af088279aee9e79b9340941a36f1c0448950b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0077_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 298
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0077_WYG_000-3a
+    span:
+    - body
+    - 298
+    - 13605
+  label: 直隷河渠志
+  type: section
+  level: 1
+hash: sha256:ee642d93bc4e702b1a2970a1d66f56e4569de858ed70b6960dacab4bc45288b4
