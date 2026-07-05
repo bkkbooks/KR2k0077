@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0077_000.yaml, hash: 'sha256:8e1bde959259b27fbfacc7fb4e656d6acaf9046816eb07f8497c4acc0743b541'}
+  - {seq: 0, filename: KR2k0077_000.yaml, hash: 'sha256:d7c81c0c8cbc06f40e31df79d29718b4a33de584902b16ba8bd5a9582778e174'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0077_000.markers.yaml, hash: 'sha256:fc0f0304e503d525511af8fbec7788aaa31b24376b5b27b9e457bfd9047da386'}
+  - {seq: 0, role: markers, filename: assets/KR2k0077_000.markers.yaml, hash: 'sha256:5ea14b3ddb96b49638a77f764964bc778b4f0705e7d0035d0bb589d853b43af0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 直隷河渠志
   type: section
   level: 1
-hash: sha256:e922cabc0214e61089126e61acab11035fe366124384d355a3ae97eadafe294a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:74b4dd30df792c35f58681f4dafade837258ea495439651012360fbf04200787
