@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0077/v1
 canonical_location: https://kanripo.org/bkk/KR2k0077/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 直隸河渠志
   date: '2015-08-24 22:44:20.072082'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0077_000.yaml, hash: 'sha256:d7c81c0c8cbc06f40e31df79d29718b4a33de584902b16ba8bd5a9582778e174'}
+  - {seq: 0, filename: KR2k0077_000.yaml, hash: 'sha256:a951f2bd2d64bc30a3b97f5cb8c48b88c6cf2c074039a4e0de3d38af791a219d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0077_000.markers.yaml, hash: 'sha256:5ea14b3ddb96b49638a77f764964bc778b4f0705e7d0035d0bb589d853b43af0'}
+  - {seq: 0, role: markers, filename: assets/KR2k0077_000.markers.yaml, hash: 'sha256:7383beee629eb07614473022a8235b5cb7d8d3c81f91b3f9850bfe20e0ac242d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 直隷河渠志
   type: section
   level: 1
-hash: sha256:74b4dd30df792c35f58681f4dafade837258ea495439651012360fbf04200787
+hash: sha256:b76a9b0dd18a25d386e963cbe8f45675b01a99834e8660317c64f763a4a97b31
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
