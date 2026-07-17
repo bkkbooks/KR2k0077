@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0077_000-WYG.yaml, hash: 'sha256:034587ad828cbe1cb232697d6bb8203b0685fb8e6841b60d0eb7fa12393da7b2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0077_000-WYG.markers.yaml, hash: 'sha256:fcb06504c42b46a84f50ea50204af088279aee9e79b9340941a36f1c0448950b'}
+  - {seq: 0, role: markers, filename: assets/KR2k0077_000-WYG.markers.yaml, hash: 'sha256:170ca8d4a9007cb7b17c3cb57aca0f5b88b7693a0440454999461e516816d618'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 直隷河渠志
   type: section
   level: 1
-hash: sha256:ee642d93bc4e702b1a2970a1d66f56e4569de858ed70b6960dacab4bc45288b4
+hash: sha256:b16761af007670b37096791534bd5cfda01b8d8dfae1a907487ecac0cc085966
